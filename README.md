@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# THIS IS THE FRONT-END OF THE IMAGE_UPLOADER PROJECT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
